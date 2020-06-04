@@ -1,4 +1,4 @@
-## FCFS
+## FCFS [스케줄러 알고리즘]
 
 FCFS는 프로세스를 처리하는 스케줄러의 알고리즘으로,
 First Come First Service의 약자이다.
